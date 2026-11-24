@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "enName": "cet4",
+    "name": "CET-4",
+    "description": "大学英语四级词库",
+    "categoryId": 1,
+    "url": "CET4_T.json",
+    "length": 2607,
+    "language": "en",
+    "translateLanguage": "zh_CN",
+    "version": 1,
+    "type": "word",
+    "isDefault": false,
+    "recommended": true,
+    "userId": "00000000-0000-0000-0000-000000000001",
+    "createdAt": "2026-05-10 03:10:19.294875",
+    "updatedAt": "2026-06-03 15:27:15.113708",
+    "cover": null,
+    "hidden": false,
+    "category": "中国考试",
+    "tags": [
+      "大学英语"
+    ]
+  },
+  {
+    "id": 2,
+    "enName": "kaoyan-core",
+    "name": "考研必考核心词",
+    "description": "考研英语高频必考核心词汇（有道考神词表，1340 词），含音标、释义、例句、短语与同根词。",
+    "categoryId": 1,
+    "url": "KaoYanCore_T.json",
+    "length": 1340,
+    "language": "en",
+    "translateLanguage": "zh_CN",
+    "version": 1,
+    "type": "word",
+    "isDefault": false,
+    "recommended": true,
+    "userId": "00000000-0000-0000-0000-000000000001",
+    "createdAt": "2026-11-22 23:30:00.000000",
+    "updatedAt": "2026-11-22 23:30:00.000000",
+    "cover": null,
+    "hidden": false,
+    "category": "中国考试",
+    "tags": [
+      "考研",
+      "核心词"
+    ]
+  },
+  {
+    "id": 3,
+    "enName": "kaoyan",
+    "name": "考研大纲词汇",
+    "description": "考研英语大纲词汇全表（多份词表去重合并，5046 词），含音标、释义、例句、短语与同根词。",
+    "categoryId": 1,
+    "url": "KaoYan_T.json",
+    "length": 5046,
+    "language": "en",
+    "translateLanguage": "zh_CN",
+    "version": 1,
+    "type": "word",
+    "isDefault": false,
+    "recommended": false,
+    "userId": "00000000-0000-0000-0000-000000000001",
+    "createdAt": "2026-11-22 23:30:00.000000",
+    "updatedAt": "2026-11-22 23:30:00.000000",
+    "cover": null,
+    "hidden": false,
+    "category": "中国考试",
+    "tags": [
+      "考研",
+      "大纲"
+    ]
+  }
+]
